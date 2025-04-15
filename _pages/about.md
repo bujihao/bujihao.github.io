@@ -40,9 +40,11 @@ Mingxin Yu, **Hao Dong**, Rui You, Shengjun Liang, Qihao Zhang, Yiyuan Ge, Mingw
 </div>
 
 # 💻 Dataset 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIM 2025</div><img src='images/fig3.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/fig3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - If you need to obtain the dataset, please contact yumingxin@bistu.edu.cn or 540083559@qq.com
+</div>
+</div>
 
 # 📖 Educations
 - *2022.06 - 2025.04 (now)*, M.S. Beijing Information Science and Technology University, Electronic Information. 
