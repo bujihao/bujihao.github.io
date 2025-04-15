@@ -29,8 +29,8 @@ I am a third-year graduate student at Beijing Information Science and Technology
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIM 2025</div><img src='images/fig7.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[YOLO-MousePose: A Novel Framework and Dataset for Mouse Pose Estimation From a Top–Down View](https://ieeexplore.ieee.org/document/10929680)
-Mingxin Yu, **Hao Dong**, Rui You, Shengjun Liang, Qihao Zhang, Yiyuan Ge, Mingwei Lin，Zeshui Xu
+[YOLO-MousePose: A Novel Framework and Dataset for Mouse Pose Estimation From a Top–Down View](https://ieeexplore.ieee.org/document/10929680)\\
+Mingxin Yu, **Hao Dong**, Rui You, Shengjun Liang, Qihao Zhang, Yiyuan Ge, Mingwei Lin，Zeshui Xu\\
 **Keywords**
 - Pose estimation
 - Mice
