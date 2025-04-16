@@ -15,7 +15,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'></span>
+<!-- <span class='anchor' id='about-me'></span> -->
 
 # 🤵 Biography
 I am a third-year graduate student at Beijing Information Science and Technology University, under the supervision of Prof. Mingxin Yu. Prior to this, I received my bachelor's degree from Hainan University. My research focuses on computer vision, particularly object detection and pose estimation.
