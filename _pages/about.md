@@ -56,7 +56,6 @@ The MPD-OFT dataset employs a top–down perspective. The closed-circuit televis
 - Diversity of Open Field
 - Multiheight and Multiresolution Camera Settings
 - Open Scene With Background
-- Higher Challenges
 </div>
 </div>
 
