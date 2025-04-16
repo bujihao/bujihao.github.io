@@ -42,7 +42,7 @@ Mingxin Yu, **Hao Dong**, Rui You, Shengjun Liang, Qihao Zhang, Yiyuan Ge, Mingw
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/fig3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**mouse pose dataset from open-field test (MPD-OFT)** \\
+**Mouse pose dataset from open-field test (MPD-OFT)** \\
 The MPD-OFT dataset employs a top–down perspective. The closed-circuit television (CCTV) cameras are set
  at different heights to accommodate different sizes and shapes
  of open fields, such as small rectangular open fields, spacious
