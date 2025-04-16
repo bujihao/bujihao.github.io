@@ -42,14 +42,15 @@ Mingxin Yu, **Hao Dong**, Rui You, Shengjun Liang, Qihao Zhang, Yiyuan Ge, Mingw
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/fig3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**mouse pose dataset from open-field test (MPD-OFT)**. The MPD-OFT dataset employs a top–down perspective. during the construction of the MPD-OFT dataset,
+**mouse pose dataset from open-field test (MPD-OFT)** \\
+The MPD-OFT dataset employs a top–down perspective. during the construction of the MPD-OFT dataset,
  we use a top–down view and record videos of the mouse’s
  behavioral activities in various experimental scenarios with
  closed-circuit television (CCTV) cameras. The cameras are set
  at different heights to accommodate different sizes and shapes
  of open fields, such as small rectangular open fields, spacious
  circular water mazes, or Y-shaped and cross mazes, ensuring
- full coverage of the experimental areas. As shown in the figure
+ full coverage of the experimental areas. As shown in the figure,
 (a) Top-view open-field conditions aimed to record the natural behavior of the mouse in system setup diagram. (b) and
  (c) Rectangular open-field images. (d)–(f) Cross-maze open-field images.
  (g) Morris circle water maze image. (h) Y-maze image.
@@ -62,7 +63,7 @@ Mingxin Yu, **Hao Dong**, Rui You, Shengjun Liang, Qihao Zhang, Yiyuan Ge, Mingw
 </div>
 </div>
 
-**If you need to obtain the dataset, please contact yumingxin@bistu.edu.cn or 540083559@qq.com**
+**If you need to obtain the dataset, please contact 540083559@qq.com or yumingxin@bistu.edu.cn**
 
 # 📖 Educations
 - *2022.06 - 2025.04 (now)*, M.S. Beijing Information Science and Technology University, Electronic Information. 
