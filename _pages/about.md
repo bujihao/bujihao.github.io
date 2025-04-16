@@ -23,7 +23,7 @@ I am a third-year graduate student at Beijing Information Science and Technology
 # 🔥 News
 - *2025.03: &nbsp;🎉🎉 A paper is accepted by IEEE TRANSACTIONS ON INSTRUMENTATION AND MEASUREMENT (SCI,JCR Q1,IF=5.6). 
 
-# 📝 Publications 
+# 📝 Publication 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIM 2025</div><img src='images/fig7.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
