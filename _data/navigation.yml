@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "About Me"
-    url: "/#-Biography"
+    url: "/#-biography"
 
   - title: "News"
     url: "/#-news"
@@ -10,7 +10,7 @@ main:
     url: "/#-publication"
 
   - title: "Dataset"
-    url: "/#-Dataset"
+    url: "/#-dataset"
 
   - title: "Educations"
     url: "/#-educations"
