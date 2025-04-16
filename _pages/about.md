@@ -63,7 +63,7 @@ The MPD-OFT dataset employs a top–down perspective. during the construction of
 </div>
 </div>
 
-**If you need to obtain the dataset, please contact 540083559@qq.com or yumingxin@bistu.edu.cn**
+**How to use it can be found in the [YOLO-MousePose github repository](https://github.com/bujihao/YOLO-MousePose). If you need to obtain the dataset, please contact 540083559@qq.com or yumingxin@bistu.edu.cn**
 
 # 📖 Educations
 - *2022.06 - 2025.04 (now)*, M.S. Beijing Information Science and Technology University, Electronic Information. 
